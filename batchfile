@@ -1,0 +1,4 @@
+echo Este es el batchfile
+echo $HOME
+
+ls -l
